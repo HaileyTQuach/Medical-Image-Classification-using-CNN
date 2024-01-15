@@ -10,7 +10,7 @@
 <h3>[ Team ]</h3>
 
 | NAME |
-| --- |  --- | 
+| --- |
 | Hyun Soo Kim | 
 | Matthew Armstrong | 
 | Phuong Thao Quach | 
