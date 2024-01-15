@@ -1,5 +1,3 @@
-## COMP432 - Group I
-
 <h3>[ Duration ]</h3>
 - September 22nd, 2023 to December 5th, 2023 (2023 FALL, Concordia University)
 
